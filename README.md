@@ -1,3 +1,5 @@
+### @author - Saket Mishra
+
 # RaaS Inventory Optimization & Analytics
 
 ## Overview
@@ -60,3 +62,4 @@ python src/feature_engineering.py
 python src/inventory_analysis.py
 python src/demand_forecasting.py
 python src/safety_stock.py
+
